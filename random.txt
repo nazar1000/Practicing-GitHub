@@ -1,5 +1,5 @@
-Random "Remember to add all the codes in"
+Random "Remember to add all the codes, updating in case other branch made update here"
 
-Another Random "previous was wrong, now this is better"
+Another Random "previous was wrong, now this is, updating in case other branch made update here"
 
-Adding another random "in case of conflict"
+Adding another random "in case of conflict, updating in case other branch made update here"
